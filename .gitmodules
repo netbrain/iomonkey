@@ -1,0 +1,12 @@
+[submodule "vendor/github.com/s-urbaniak/uevent"]
+	path = vendor/github.com/s-urbaniak/uevent
+	url = https://github.com/s-urbaniak/uevent
+[submodule "vendor/github.com/bdotdub/exiftool"]
+	path = vendor/github.com/bdotdub/exiftool
+	url = https://github.com/bdotdub/exiftool
+[submodule "vendor/github.com/ncw/go-acd"]
+	path = vendor/github.com/ncw/go-acd
+	url = https://github.com/ncw/go-acd
+[submodule "vendor/github.com/google/go-querystring"]
+	path = vendor/github.com/google/go-querystring
+	url = https://github.com/google/go-querystring
